@@ -1,1 +1,2 @@
 Saya telah melaksanakan beberapa chapter yang mencakup pemrograman dan simulasi robot dengan ROS. Saya menguji komunikasi antar node menggunakan topik, layanan, dan aksi, serta memvisualisasikan robot 3D di Rviz. Simulasi robot dengan Gazebo, CoppeliaSim, dan Webots berhasil dilakukan untuk mengontrol robot melalui ROS. Tantangan utama adalah integrasi ROS dengan simulator dan pengelolaan terminal. Proyek ini memberi wawasan tentang kontrol robot dan komunikasi antar node di berbagai simulator.
+https://www.youtube.com/playlist?list=PL1KrH0QW_hB3HtAzJbgwe5dghIos-86d3
